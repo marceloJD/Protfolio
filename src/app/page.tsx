@@ -16,7 +16,7 @@ export default function HomePage() {
   return (
     <>
     <NavBar
-        logo="Marcelo Jimenez"
+        logo="MarceloJD"
         links={vm.nav.links}
         lang={vm.nav.lang}
         setLang={vm.nav.setLang}
